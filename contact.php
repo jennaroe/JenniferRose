@@ -57,12 +57,12 @@ if ($httpRequest->isAjax()) {
 
     $mail = new Message;
     $mail->setFrom($from)
-	    ->addTo($sendTo)
-	    ->setSubject($subject)
+	    ->addTo(jennrosedev@gmail.com)
+	    ->setSubject(New Message)
 	    ->setHtmlBody($htmlBody, FALSE);
 
     $mailer = new SendmailMailer;
-    $mailer->send($mail);
+    $mailer->send(jennrosedev@gmail.com);
 
 
     $responseArray = array('type' => 'success', 'message' => $okMessage);
