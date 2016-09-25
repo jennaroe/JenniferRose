@@ -57,7 +57,7 @@ UNIVERSAL SECTION STYLES
 */
 .section {
   position: relative;
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 60px;
   text-align: center;
 }
