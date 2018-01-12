@@ -1,9 +1,45 @@
-Hello,
+Jennifer Hernandez
 
-thank you for downloading IT Worker.
+“There is never going to be a time in my life    when I can stop learning. I need to remember everyday that I will never know everything.“
+
+PROFESSIONAL PROFILE	
+
+Jennifer is a recent graduate of the UCF Web-Development Boot camp. She has a degree in Journalism and Communications from the University of Florida, and has been working as a real estate agent in downtown Orlando for the past 4 years. 
+
+Skills Include: 
+Front End Development/User interface design/ Database Design and management/ Testing, Debugging & Documentation/Google Fu.
 
 
-*Everything is kept simple so you should not have any problems implementing the template. I will try to answer few of the possible questions below.*
+TECHNICAL SKILLS
+
+Programming/Web:	HTML5, CSS3, JavaScript, JQuery, React.js, PHP, Laravel, JSON API, AJAX, Firebase, GitHub, Heroku, command line
+
+Database/Backend: 	Node.js, Express.js, My SQL, Mongo DB, Handlebars.js
+
+
+CAREER DEVELOPMENT
+Project Manager - PulseProject.org
+            Startup Profile: https://www.f6s.com/pulseproject/
+            Facebook Profile: https://www.facebook.com/pulseproject
+        
+           A volunteer crisis corps that would be a hub for volunteer opportunities and information during a city-wide crisis such as a natural disaster or a mass shooting. Members would be able to track the volunteer activities available, join said activities, find contact information, track them on their calendars and receive notifications based on their preferences. 
+
+           It is a web application using a tech stack including React, Node, Express and Postgres SQL at the moment. We will use Twilio to send text message alerts to our members during crisis mode. The mobile application will come in our second phase, but the plan is to start on the iPhone application. Our team consists of 4 web developers and we plan to build the website, server and API ourselves.
+
+
+Full Stack Web Developer, Present
+
+•	Developed several front-end projects using HTML and CSS and using frameworks like Bootstrap and Materialize.
+•	Created fully functional full stack projects using Javascript, Jquery, MySql, PHP, Google API’s, React, MongoDB, etc that were awarded best use of tech and best UI/UX. My work has caught the attention of several corporate partners.
+•	Currently project manager for web application called Pulse Project which is a hub for volunteering in crisis situations
+
+
+Trilogy Education Services – Teaching Assistant - Present
+
+Support an intensive coding bootcamp based out of UCF Department of Continuing Education involving in-class teaching through an extensive curriculum using Node.js. Express.js, JavaScript, jQuery, AJAX, RESTful APIs, React, MySQL, MongoDB, PHP and Laravel.
+
+
+
 
 
 **Changing the colour of the theme**
